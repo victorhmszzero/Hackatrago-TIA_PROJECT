@@ -14,8 +14,8 @@
 
 <h2>CONHEÇA A TIA</h2>
 <p float="left">
-  <img src="Assets/DesktopPrint.jpg" width ="500">
-  <img src="Assets/MobilePrint.jpg"  width ="500">
+  <img src="Assets/DesktopPrint.jpg" width ="490" height="370">
+  <img src="Assets/MobilePrint.jpg"  width ="490" height="370">
 </p>
 <p>A Tia é uma plataforma desenvolvida pela Luna com propósito de capacitar produtores e suas equipes de forma simples, prática e eficaz.</p>
 <p>Esses iriam desde irrigação até como a tecnologia pode ser aplicada em seu negócio, mostrando cases reais de grandes empresas.</p>
