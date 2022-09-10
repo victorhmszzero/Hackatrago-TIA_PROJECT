@@ -15,8 +15,10 @@ Projeto criado para o Hacktagro 2022 ( 26 até 28 de Agosto de 2022)
 <p>Pensando no meio ambiente, a Luna foi desenvolvida com materiais sustentáveis. Um dos aspectos da Luna é realizar a coleta de água e chuva, armazenando em um recipiente subterrâneo. Neste recipiente, a Luna irá fazer uma análise para ver a qualidade da água, indicando em qual estado ela está (boa ou ruim).</p>
 
 <h2>CONHEÇA A TIA</h2>
-<img src="Assets/Desktop.jpg">
-<img src="Assets/Mobile.jpg">
+<p float="left">
+  <img src="Assets/DesktopPrint.jpg" width ="500">
+  <img src="Assets/MobilePrint.jpg"  width ="500">
+</p>
 <p>A Tia é uma plataforma desenvolvida pela Luna com propósito de capacitar produtores e suas equipes de forma simples, prática e eficaz.</p>
 <p>Esses iriam desde irrigação até como a tecnologia pode ser aplicada em seu negócio, mostrando cases reais de grandes empresas.</p>
 
