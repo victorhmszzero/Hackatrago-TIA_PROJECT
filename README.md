@@ -20,9 +20,8 @@
 <p>A Tia é uma plataforma desenvolvida pela Luna com propósito de capacitar produtores e suas equipes de forma simples, prática e eficaz.</p>
 <p>Esses iriam desde irrigação até como a tecnologia pode ser aplicada em seu negócio, mostrando cases reais de grandes empresas.</p>
 
-<h3>Nossos prototipos</h3> <!--Protipo criado dia 26-28 de Agosto-->
-Projeto criado para o Hacktagro 2022 ( 26 até 28 de Agosto de 2022)
-<br>
+<h3>Nossos prototipos</h3>
+<p>Projeto criado para o Hackatrago 2022 (26 até 28 de Agosto de 2022).</p>
 <a href= "https://www.figma.com/proto/sqW7KE69Qdtk2SBUwXIxWE/hacktrago-1.0?node-id=1%3A2&starting-point-node-id=1%3A2">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="20">
      Clique aqui para visualizar o versão desktop</a><br>
