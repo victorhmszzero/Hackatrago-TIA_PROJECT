@@ -1,7 +1,6 @@
-# Hackatrago-TIA_PROJECT
-Um prototipo Figma
+# HackatAgro-TIA_PROJECT
 <img src="Assets/Banner.jpg" width = "100%">
-
+Softwares ultilizados: Figma 
 <h2>Equipe</h2>
 <a href= https://github.com/adrianocqueiroz>@adrianocqueiroz</a>
 <a href= https://github.com/IsabelliOliveira>@IsabelliOliveira</a>
